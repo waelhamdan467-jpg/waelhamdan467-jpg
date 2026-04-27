@@ -72,7 +72,6 @@ about_me = {
 - 🌐 &nbsp; Interested in **Networking** and **Software Architecture**
 - 🔭 &nbsp; Always exploring new technologies and solving problems
 - 🌱 &nbsp; Currently leveling up in **Full Stack Development**
-- ⚡ &nbsp; Fun fact: The first computer bug was an actual bug — a moth found in a relay! 🦗
 
 <hr/>
 
